@@ -90,4 +90,13 @@ public class UserAction {
         mv.addObject("tbNoticeList", tbNoticeList);
         return mv;
     }
+
+    //首页公告
+    @RequestMapping("/selectss")
+    public ModelAndView selectjsp1() {
+        List<TbNotice> tbNoticeList = noticeInterface.list();
+        ModelAndView mv = new ModelAndView("/jsp/selects.jsp");
+        mv.addObject("tbNoticeList", tbNoticeList);
+        return mv;
+    }
 }
