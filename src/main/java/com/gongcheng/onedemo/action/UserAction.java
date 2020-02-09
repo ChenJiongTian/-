@@ -90,6 +90,5 @@ public class UserAction {
         mv.addObject("tbNoticeList", tbNoticeList);
         return mv;
     }
-    //
 
 }
