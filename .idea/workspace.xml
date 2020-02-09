@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0249d4e4-37c4-424a-a012-ce8684c59d59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gongcheng/onedemo/action/shuhao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onedemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/onedemo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +77,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
     <configuration name="OnedemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -123,6 +125,7 @@
       <workItem from="1581223226484" duration="1402000" />
       <workItem from="1581224810681" duration="2647000" />
       <workItem from="1581227511913" duration="69000" />
+      <workItem from="1581227978295" duration="151000" />
     </task>
     <task id="LOCAL-00001" summary="aa">
       <created>1581220891266</created>
